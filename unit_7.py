@@ -55,5 +55,5 @@ def end():
 def main():
     decision()
 
-main()
 
+main()
